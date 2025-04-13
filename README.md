@@ -147,31 +147,32 @@ Each project is broken down into:
 ---
 
 ## 🔥 Bonus Ideas
-💼 Use your project knowledge to build freelance gigs
-🧱 Combine similar projects to create full-stack AI apps
-📊 Present your portfolio at hackathons and AI meetups
-📝 Turn your learnings into blog posts or a LinkedIn series
+- 💼 Use your project knowledge to build freelance gigs
+- 🧱 Combine similar projects to create full-stack AI apps
+- 📊 Present your portfolio at hackathons and AI meetups
+- 📝 Turn your learnings into blog posts or a LinkedIn series
 
 ---
 ## 🙌 Credits & Acknowledgements
-Big shout-out to the AI community 🌍 — the open-source contributors, educators, content creators, and researchers who believe in accessible, free, and affordable education for everyone.
+Big shout-out to the AI community 🌍 
+- the open-source contributors, educators, content creators, and researchers who believe in accessible, free, and affordable education for everyone.
 
 ## ✨ Special Thanks To:
 Mr. Vivian Araha [@vivianaranha](https://www.udemy.com/user/vivianaranha/) 🧠💫 — for inspiring and supporting this bootcamp initiative.
 
-💻 Countless contributors around the world who share their time, code, and knowledge.
+- 💻 Countless ai contributors around the world who share their time, code, and knowledge.
 
-🧪 Platforms like Google Colab, Hugging Face, Kaggle, Fast.ai, Coursera, and YouTube educators — making world-class education available to anyone with a dream.
+- 🧪 Platforms like Google Colab, Hugging Face, Kaggle, Fast.ai, anaconda and udemy educators — making world-class education available to anyone with a dream.
 
-💡 Learners like YOU who keep this ecosystem thriving by learning, building, and giving back.
+- 💡 Learners like YOU who keep this ecosystem thriving by learning, building, and giving back.
 
 “When we lift each other up, we all rise.”
 ---
 
 ## 📣 Join the Movement!
 
-🎉 Are you ready to commit to 30 Days of AI Development? Share your progress with the hashtag: `#30DaysOfAI`  
-🤝 Contribute by submitting your own versions or ideas as PRs!
+- 🎉 Are you ready to commit to 30 Days of AI Development? Share your progress with the hashtag: `#30DaysOfAI`  
+- 🤝 Contribute by submitting your own versions or ideas as PRs!
 
 ---
 
