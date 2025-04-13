@@ -146,17 +146,17 @@ Each project is broken down into:
 
 ---
 
-🔥 Bonus Ideas
+## 🔥 Bonus Ideas
 💼 Use your project knowledge to build freelance gigs
 🧱 Combine similar projects to create full-stack AI apps
 📊 Present your portfolio at hackathons and AI meetups
 📝 Turn your learnings into blog posts or a LinkedIn series
 
 ---
-🙌 Credits & Acknowledgements
+## 🙌 Credits & Acknowledgements
 Big shout-out to the AI community 🌍 — the open-source contributors, educators, content creators, and researchers who believe in accessible, free, and affordable education for everyone.
 
-✨ Special Thanks To:
+## ✨ Special Thanks To:
 Mr. Vivian Araha [@vivianaranha](https://www.udemy.com/user/vivianaranha/) 🧠💫 — for inspiring and supporting this bootcamp initiative.
 
 💻 Countless contributors around the world who share their time, code, and knowledge.
@@ -179,7 +179,7 @@ Mr. Vivian Araha [@vivianaranha](https://www.udemy.com/user/vivianaranha/) 🧠�
 
 📫 Questions, feedback, or want to collaborate?
 
-Connect with us on:
+Connect with me on:
 
 - 🐦 Twitter: [@marameref](https://twitter.com/marameref)
 - 💼 LinkedIn: [LinkedIn.com](https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/)
@@ -203,7 +203,7 @@ And remember…
 
 ---
 
-⭐ Don’t Forget to Star this Repo!
+### ⭐ Don’t Forget to Star this Repo!
 If you found this bootcamp useful, please give it a ⭐ and share it with your fellow AI learners. Your support keeps the open-source flame alive! 🔥
 
 ---
