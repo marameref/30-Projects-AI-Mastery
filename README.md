@@ -157,7 +157,7 @@ Each project is broken down into:
 Big shout-out to the AI community 🌍 — the open-source contributors, educators, content creators, and researchers who believe in accessible, free, and affordable education for everyone.
 
 ✨ Special Thanks To:
-Vvian Araha 🧠💫 — for inspiring and supporting this bootcamp initiative.
+Mr. Vivian Araha [@vivianaranha](https://www.udemy.com/user/vivianaranha/) 🧠💫 — for inspiring and supporting this bootcamp initiative.
 
 💻 Countless contributors around the world who share their time, code, and knowledge.
 
